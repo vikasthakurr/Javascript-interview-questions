@@ -217,10 +217,6 @@ document.getElementById('dec').addEventListener('click',()=>span.textContent=--c
 </script>
 ```
 
----
-# 12. JavaScript Machine Coding Round – 20 Questions with Solutions (Continued)
-
----
 
 ## 11. Dynamic Table Creation
 **Theory:**
