@@ -277,9 +277,6 @@ class Dog extends Animal{ speak(){ console.log('Dog barks'); super.speak(); } }
 const d = new Dog();
 d.speak(); // Dog barks
            // Animal speaks
-# 03. JavaScript Objects & Prototypes – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 21. Inheritance using Object.create
 **Theory:**
@@ -546,9 +543,6 @@ console.log(obj.a); // 1
 console.log(NaN === NaN); // false
 console.log(Object.is(NaN, NaN)); // true
 
-# 03. JavaScript Objects & Prototypes – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 41. Object Prototype Pollution
 **Theory:**

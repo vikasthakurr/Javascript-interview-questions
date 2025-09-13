@@ -97,10 +97,4 @@ js-interview-questions
 
 ---
 
-## **License**
-
-This repository is licensed under the MIT License. Feel free to use and share for educational purposes.
-
----
-
 Happy Learning & Happy Coding! 🚀

@@ -441,9 +441,6 @@ The `name` property provides the identifier of the function, useful for debuggin
 function test() {}
 console.log(test.name); // test
 
-# 02. JavaScript Functions – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 31. Function toString
 **Theory:**
@@ -588,8 +585,6 @@ function fib(n){
 }
 console.log(fib(10)); // 55
 ```
-
----
 
 ## 41. Function with Rest and Spread
 **Theory:**

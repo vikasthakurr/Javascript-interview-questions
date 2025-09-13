@@ -118,9 +118,6 @@ Events propagate from target to root (bubbling) or root to target (capturing). U
 ```js
 el.addEventListener('click',fn,true); // capturing phase
 
-# 07. JavaScript DOM & Browser APIs – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 11. Prevent default behavior
 **Theory:**
@@ -246,9 +243,6 @@ frag.appendChild(li);
 document.querySelector('ul').appendChild(frag);
 ```
 
-# 07. JavaScript DOM & Browser APIs – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 21. Event delegation for dynamic elements
 **Theory:**
@@ -365,9 +359,6 @@ Stores data for the duration of page session; cleared when tab is closed.
 sessionStorage.setItem('token','abc');
 console.log(sessionStorage.getItem('token'));
 ```
-# 07. JavaScript DOM & Browser APIs – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 31. Cookies in JavaScript
 **Theory:**
@@ -487,9 +478,6 @@ Observe DOM changes and react dynamically.
 const observer = new MutationObserver(mutations=>console.log(mutations));
 observer.observe(document.body,{childList:true,subtree:true});
 ```
-# 07. JavaScript DOM & Browser APIs – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 41. Custom events
 **Theory:**

@@ -278,10 +278,6 @@ const set=new Set([1,2,3]);
 **Theory:**
 Use Chrome DevTools Memory tab to take heap snapshots and detect leaks.
 
----
-# 10. JavaScript Performance & Memory – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 26. Debounce vs Throttle
 **Theory:**

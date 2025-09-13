@@ -253,9 +253,6 @@ const arr=[1,2,3];
 arr.reverse();
 console.log(arr); // [3,2,1]
 
-# 04. JavaScript Arrays & Iteration – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 21. sort() method
 **Theory:**
@@ -508,9 +505,6 @@ const arr=[1,2,3,2];
 console.log(arr.find(x=>x>1)); // 2
 console.log(arr.filter(x=>x>1)); // [2,3,2]
 ```
-# 04. JavaScript Arrays & Iteration – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 41. Array.includes vs Array.indexOf for NaN
 **Theory:**

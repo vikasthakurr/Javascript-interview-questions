@@ -253,10 +253,6 @@ Use `includes` method for simplicity.
 arr.includes(5);
 ```
 
-# 11. JavaScript Coding Puzzles / Practical Questions – 50 Interview Questions with Detailed Explanations (Continued)
-
----
-
 ## 21. Find largest element in array
 **Theory:**
 Iterate through array to find max value.

@@ -514,9 +514,6 @@ async function f(){
   const data=await fetch(url).then(res=>res.json());
 }
 ```
-# 06. JavaScript Asynchronous – 50 Interview Questions with Detailed Explanations (Continued)
-
----
 
 ## 41. Async iteration with arrays
 **Theory:**
