@@ -1,5 +1,13 @@
 # JavaScript Interview Questions Repository
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
+![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/Javascript-interview-questions?style=flat-square) 
+![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/Javascript-interview-questions?style=flat-square)
+
+
 Welcome to the **JavaScript Interview Questions Repository**! This repo contains a comprehensive set of **500+ JavaScript interview questions** organized by topics, including theory, code examples, and practical machine coding tasks. It is designed for both beginners and experienced developers preparing for technical interviews or enhancing their JS skills.
 
 ---
